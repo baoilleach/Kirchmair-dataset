@@ -46,7 +46,6 @@ cbp-456c	c1cc(ccc1Oc2ccc(cc2)Cl)S(=O)(=O)C3(CCOCC3)CC(=O)NO
 3an-1hiy	[cH:35]1[nH:33][c:24]2[c:25]([n:26][cH:27][n:29][c:23]2[n+:22]1[C@H:19]3[C@@H:17]([C@@H:15]([C@H:13]([O:21]3)[CH2:10][O:9][P@:8](=[O:42])([OH:43])[O:7][P:1](=[O:2])([OH:3])[OH:5])[NH2:39])[OH:37])[NH2:30]
 3fp-1v1k	CN(C)C[C@H](COc1ccc(cc1)Nc2cc(ncn2)Nc3cc(ccc3F)C(F)(F)F)O
 3in-2bpy	C[C@H]1CC[C@H]([C@H]1NC(=O)[C@H](Cc2ccccc2)C[C@@H](C[N@@]3CCN(C[C@H]3C(=O)NC(C)(C)C)C(=O)c4cnc(c(n4)Cl)N5CCN(CC5)C)O)O
-3md-3pax	C[C@@H]([C@@H](C(=O)O)N)C(=O)O
 3pg-1iih	C([C@H](C(=O)O)O)OP(=O)(O)O
 3pg-1m7o	C([C@H](C(=O)O)O)OP(=O)(O)O
 418-1ph0	COC(=O)c1c(cccc1OCCCCNC(=O)[C@H](Cc2ccc(cc2)N(c3ccccc3C(=O)O)C(=O)C(=O)O)NC(=O)O)O
