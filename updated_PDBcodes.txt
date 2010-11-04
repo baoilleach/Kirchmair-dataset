@@ -39,7 +39,7 @@ akg-1aib	[CH2:4]([CH2:6][C:9](=[O:10])[OH:11])[C:3](=[O:14])[C:1](=[O:2])[OH:15]
 2pg-1o5x	C([C@H](C(=O)O)OP(=O)(O)O)O
 2pp-1dit	CCCC(CCC)CO
 335-1q6j	c1ccc(cc1)C(Cc2ccc(cc2)C(F)(F)P(=O)(O)O)(Cc3ccc(cc3)C(F)(F)P(=O)(O)O)n4c5ccccc5nn4
-345-456c	c1cc(ccc1Oc2ccc(cc2)Cl)S(=O)(=O)C3(CCOCC3)CC(=O)NO
+cbp-456c	c1cc(ccc1Oc2ccc(cc2)Cl)S(=O)(=O)C3(CCOCC3)CC(=O)NO
 383-1jii	c1cc(ccc1C[C@@H](C(=O)N[C@@H]([C@H]2[C@@H]([C@@]3(CO[C@@H]([C@@H]3O)[N@@]2O)O)O)C(=O)O)N)O
 394-1exa	CC1(CCC(c2c1ccc(c2)[C@H](C(=O)Nc3ccc(cc3F)C(=O)O)O)(C)C)C
 395-1exx	[CH3:191][C:191]1([CH2:191][CH2:191][C:191]([c:191]2[c:190]1[cH:190][cH:190][c:190]([cH:190]2)[C@@H:191]([C:192](=[O:192])[NH:192][c:190]3[cH:190][cH:189][c:189]([cH:189][c:189]3[F:192])[C:190](=[O:192])[OH:192])[OH:192])([CH3:191])[CH3:191])[CH3:191]
