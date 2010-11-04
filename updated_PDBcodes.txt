@@ -37,7 +37,6 @@ compound-id	smiles
 2np-1f06	C=C(CCC[C@@H](C(=O)O)N)C(=O)O
 akg-1aib	[CH2:4]([CH2:6][C:9](=[O:10])[OH:11])[C:3](=[O:14])[C:1](=[O:2])[OH:15]
 2pg-1o5x	C([C@H](C(=O)O)OP(=O)(O)O)O
-2pi-1aj2	CCC[C@@H](C(=O)O)N
 2pp-1dit	CCCC(CCC)CO
 335-1q6j	c1ccc(cc1)C(Cc2ccc(cc2)C(F)(F)P(=O)(O)O)(Cc3ccc(cc3)C(F)(F)P(=O)(O)O)n4c5ccccc5nn4
 345-456c	c1cc(ccc1Oc2ccc(cc2)Cl)S(=O)(=O)C3(CCOCC3)CC(=O)NO
