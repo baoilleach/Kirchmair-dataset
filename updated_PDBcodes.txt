@@ -285,7 +285,7 @@ dao-1e7f	CCCCCCCCCCCC(=O)O
 dao-1ek4	CCCCCCCCCCCC(=O)O
 dao-1fk1	CCCCCCCCCCCC(=O)O
 dao-1fpn	CCCCCCCCCCCC(=O)O
-dao-1gff	CCCCCCCCCCCC(=O)O
+dao-1qff	CCCCCCCCCCCC(=O)O
 dao-1hzp	CCCCCCCCCCCC(=O)O
 dao-1qfg	CCCCCCCCCCCC(=O)O
 dap-432d	[H]\N=C(/c1ccc2cc([nH]c2c1)c3ccc(cc3)C(=N)N)\N
