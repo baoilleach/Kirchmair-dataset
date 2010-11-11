@@ -113,7 +113,6 @@ aas-1czm	c1cc(ccc1N)S(=O)(=O)N
 aax-1y6b	COc1ccc(cc1Nc2ncc(o2)c3cccc(c3)c4cccnc4)S(=O)(=O)NCC5CC5
 aaz-1y6a	CCS(=O)(=O)c1ccc(c(c1)Nc2ncc(o2)c3cccc(c3)c4ccccn4)OC
 abz-1s9g	c1cc(ccc1C#N)Nc2nc(nc(n2)N)Cc3c4cc[nH]c4ccc3Cl
-ac2-1ki5	c1nc2c(n1COCCO)[nH]c(nc2=O)N
 ac2-2ki5	C1=[N+](C2=NC(=NC(=O)C2=N1)N)COCCO
 acd-1adl	[CH3:42][CH2:39][CH2:38][CH2:36][CH2:35]\[CH:33]=[CH:31]/[CH2:28]\[CH:26]=[CH:23]/[CH2:20]\[CH:19]=[CH:16]/[CH2:15]\[CH:13]=[CH:10]/[CH2:7][CH2:4][CH2:3][C:1](=[O:2])[OH:59]
 acd-1cvu	[CH3:42][CH2:39][CH2:38][CH2:36][CH2:35]\[CH:33]=[CH:31]/[CH2:28]\[CH:26]=[CH:23]/[CH2:20]\[CH:19]=[CH:16]/[CH2:15]\[CH:13]=[CH:10]/[CH2:7][CH2:4][CH2:3][C:1](=[O:2])[OH:59]
