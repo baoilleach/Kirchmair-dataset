@@ -74,7 +74,7 @@ sb2-1pme	CS(=O)c1ccc(cc1)c2[nH]c(c(n2)c3ccc(cc3)F)c4ccncc4
 600-1q6t	CC(C)C[C@@H](c1ccc2cc(cc(c2n1)P(=O)(O)O)c3ccc(cc3)C[C@@](Cc4ccc(cc4)C(F)(F)P(=O)(O)O)(c5ccccc5)n6c7ccccc7nn6)OC
 612-1c1c	CCOCn1c(c(c(=O)[nH]c1=O)C(C)C)SC2CCCCC2
 616-1hv7	[CH3:54][CH:53]([CH3:58])[C@H:4]([CH:2]=[O:1])[C@H:6]1[C@@H:7]([CH2:17][CH2:20][N:22]1[C:23](=[O:49])\[CH:24]=[CH:26]\[CH2:29][N:30]2[CH2:31][CH2:33][CH2:36][CH2:39][CH2:42]2)[NH:8][S:10](=[O:15])(=[O:16])[CH3:11]
-638-1qbr	c1ccc(cc1)C[C@@H]2[C@@H]([C@H]([C@H](N(C(=O)N2Cc3cccc(c3)C(=O)Nc4nccs4)Cc5cccc(c5)C(=O)Nc6nccs6)Cc7ccccc7)O)O
+xv6-1qbr	c1ccc(cc1)C[C@@H]2[C@@H]([C@H]([C@H](N(C(=O)N2Cc3cccc(c3)C(=O)Nc4nccs4)Cc5cccc(c5)C(=O)Nc6nccs6)Cc7ccccc7)O)O
 654-1i2z	Cc1ccc(cc1)Cn2cc(nc2)c3cccs3
 655-1o3p	[H]\N=C(\c1ccc2c(c1)nc([nH]2)c3cccc(c3O)OC4CCCC4)/N
 65b-1sv5	Cc1cc(cc(c1Oc2c(c(nc(n2)Nc3ccc(cc3)C#N)N)Br)C)C#N
