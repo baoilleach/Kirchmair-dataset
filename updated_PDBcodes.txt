@@ -248,7 +248,7 @@ ck1-1pxi	c1cnc(nc1c2cc(sc2Cl)Cl)N
 ck2-1pxj	Cc1c(sc(n1)C)c2ccnc(n2)N
 ck3-1pxk	Cc1c(sc(n1)C)c2ccnc(n2)N\C=N/O
 ck4-1pxl	Cc1c(sc(n1)C)c2ccnc(n2)Nc3ccc(cc3)C(F)(F)F
-ck4-1pxm	Cc1c(sc(n1)C)c2ccnc(n2)Nc3cccc(c3)O
+ck5-1pxm	Cc1c(sc(n1)C)c2ccnc(n2)Nc3cccc(c3)O
 ck6-1pxn	Cc1c(sc(n1)N=C)c2ccnc(n2)Nc3ccc(cc3)O
 ck8-1pxp	Cc1c(sc(n1)C)c2ccnc(n2)Nc3ccc(cc3)N(C)C
 clk-1grq	c1cc(ccc1[C@H]([C@@H](CO)NC(=O)C(Cl)Cl)O)N
