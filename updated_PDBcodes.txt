@@ -130,7 +130,6 @@ ahx-1ses	[cH:32]1[n:33][c:34]([c:29]2[c:30]([n:31]1)[n:25]([cH:26][n:28]2)[C@H:2
 ai1-1fd7	c1ccc(cc1)CNC(=O)c2cccc(c2)O[C@@H]3[C@@H]([C@H]([C@H]([C@H](O3)CO)O)O)O
 aih-1xp1	C[C@H]1CN(C[C@@H]1C)CCOc2ccc(cc2)[C@H]3[C@H](Sc4cc(ccc4O3)O)c5ccc(cc5)O
 aij-1xp9	C[C@@H](COc1ccc(cc1)[C@H]2[C@H](Sc3cc(ccc3O2)O)c4ccc(cc4)O)N5CCCC5
-aip-1ber	CC(C)[C@@H](C(=O)N[C@@H](CCCNC(=N)N)CO)N
 ait-1xpc	C[C@H](COc1ccc(cc1)[C@H]2[C@H](Sc3cc(ccc3O2)O)c4ccc(cc4)O)N5CCCC5
 aiu-1xp6	C[C@@H]1CN(C[C@H]1C)CCOc2ccc(cc2)[C@H]3[C@H](Sc4cc(ccc4O3)O)c5ccc(cc5)O
 al5-1bn1	Cc1ccc(cc1)CNS(=O)(=O)c2ccc(s2)S(=O)(=O)N
