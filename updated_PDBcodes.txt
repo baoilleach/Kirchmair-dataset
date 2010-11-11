@@ -231,7 +231,7 @@ c3x-1ref	C1[C@H]([C@@H]([C@H]([C@@H](O1)OCC2=CO2)O)O)O
 c5x-1red	C1[C@H]([C@@H]([C@H]([C@@H](O1)OCCCC2=CO2)O)O)O
 cab-1djo	C(C[C@@H](C(=O)O)N)C=O
 can-2can	C(CON)[C@@H](C(=O)O)N
-cay-1gti	C([C@@H](C=O)N)SCC(=O)O
+ccs-1gti	C([C@@H](C=O)N)SCC(=O)O
 cbb-1lpk	[H]\N=C(/c1cccc(c1)Cn2c3ccccc3cc2C(=O)OCc4cccc(c4)\C(=N/[H])\N)\N
 cbl-21gs	c1cc(ccc1CCCC(=O)O)N(CCCl)CCCl
 cbn-1kzn	Cc1ccc([nH]1)C(=O)O[C@H]2[C@H]([C@@H](OC([C@@H]2OC)(C)C)Oc3ccc4c(c(c(=O)oc4c3Cl)NC(=O)c5ccc(c(c5)CC=C(C)C)O)O)O
