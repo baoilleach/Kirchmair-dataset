@@ -79,7 +79,7 @@ xv6-1qbr	c1ccc(cc1)C[C@@H]2[C@@H]([C@H]([C@H](N(C(=O)N2Cc3cccc(c3)C(=O)Nc4nccs4)
 655-1o3p	[H]\N=C(\c1ccc2c(c1)nc([nH]2)c3cccc(c3O)OC4CCCC4)/N
 65b-1sv5	Cc1cc(cc(c1Oc2c(c(nc(n2)Nc3ccc(cc3)C#N)N)Br)C)C#N
 696-1o2g	[H]\N=C(/c1ccc2c(c1)cc([nH]2)c3cccc(c3O)c4ccccc4)\N
-6ab-1c0i	c1ccc(c(c1)C(=O)O)N
+be2-1c0i	c1ccc(c(c1)C(=O)O)N
 6cp-1h1r	c1cc(cc(c1)Cl)Nc2nc3c(c(n2)OCC4CCCCC4)nc[nH]3
 6in-1db5	[CH3:12][c:11]1[c:16]([c:4]2[cH:2][c:1]([cH:8][cH:6][c:5]2[n:10]1[CH2:25][c:27]3[cH:28][cH:30][cH:31][cH:33][cH:34]3)[O:39][CH2:40][CH2:41][CH2:42][C:44](=[O:45])[OH:46])[CH2:17][C:19](=[O:20])[NH2:21]
 6pg-1dqr	C([C@H]([C@H]([C@@H]([C@H](C(=O)O)O)O)O)O)OP(=O)(O)O
