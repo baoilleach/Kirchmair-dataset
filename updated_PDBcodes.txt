@@ -66,7 +66,7 @@ dmq-1dmp	c1ccc(cc1)C[C@@H]2[C@@H]([C@H]([C@H](N(C(=O)N2Cc3cccc(c3)N)Cc4cccc(c4)N
 515-1nny	CC(=O)N[C@@H](Cc1ccc(c2c1cccc2)N(c3ccccc3C(=O)O)C(=O)C(=O)O)C(=O)NCCCCCOc4cc5ccccc5cc4C(=O)O
 564-1fcy	CC1(CCC(c2c1ccc(c2)C(=O)c3ccc4cc(ccc4c3)C(=O)O)(C)C)C
 570-1fm9	Cc1c(nc(o1)c2ccccc2)CCOc3ccc(cc3)C[C@@H](C(=O)O)Nc4ccccc4C(=O)c5ccccc5
-577-1pme	CS(=O)c1ccc(cc1)c2[nH]c(c(n2)c3ccc(cc3)F)c4ccncc4
+sb2-1pme	CS(=O)c1ccc(cc1)c2[nH]c(c(n2)c3ccc(cc3)F)c4ccncc4
 588-1ony	CCCCCNC(=O)[C@H](Cc1ccc(c(c1)\C=C\C(=O)N)N(c2ccccc2C(=O)O)C(=O)C(=O)O)NS(=O)(=O)C
 5bn-1p2a	c1cc([nH]c1)c2cc(c3c(ccc4c3c2C(=O)N4)F)NCCN
 5ea-1s9i	[cH:475]1[cH:475][c:476]([c:475]([cH:475][c:475]1[I:475])[F:475])[NH:476][c:476]2[c:476]([cH:476][cH:476][c:476]([c:476]2[F:476])[F:476])[c:477]3[n:477][n:477][c:477]([o:477]3)[NH:477][CH2:477][CH2:477][N:477]4[CH:477]=[CH:478][O:478][CH:478]=[CH:478]4
