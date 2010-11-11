@@ -209,7 +209,7 @@ bli-1jwt	[H]\N=C(\NO)/N1CCC(CC1)CNC(=O)[C@@H]2CC[C@@H]3N2C(=O)C[N@](C3)S(=O)(=O)
 bm1-1c0t	Cc1cccc(c1)[C@@]23c4ccccc4C(=O)N2CCS3
 bm5-1c0u	COC(=O)[C@@H]1CS[C@]2(N1C(=O)c3c2cccc3)c4ccccc4
 bm9-1bmn	c1ccc2cc(ccc2c1)S(=O)(=O)N[C@@H](CO)C(=O)N3CCC[C@H]3CNC(=O)[C@H]4CCCN(C4)C(=N)N
-bmm-1s9j	[cH:231]1[cH:231][c:231]([c:231]([cH:232][c:231]1[I:232])[F:231])[NH:231][c:231]2[c:230]([cH:230][c:230]([c:230]([c:231]2[F:231])[F:230])[Br:230])[C:229](=[O:229])[NH:229][O:229][CH2:229][C@H:230]([CH2:230][OH:230])[OH:230]
+bbm-1s9j	[cH:231]1[cH:231][c:231]([c:231]([cH:232][c:231]1[I:232])[F:231])[NH:231][c:231]2[c:230]([cH:230][c:230]([c:230]([c:231]2[F:231])[F:230])[Br:230])[C:229](=[O:229])[NH:229][O:229][CH2:229][C@H:230]([CH2:230][OH:230])[OH:230]
 bmz-1ghw	[H]\N=C(/c1ccc2c(c1)[nH]c(n2)c3ccccc3O)\N
 bmz-1gi8	[H]\N=C(/c1ccc2c(c1)[nH]c(n2)c3ccccc3O)\N
 bpd-1dvy	c1cc(cc(c1)N2c3cccc(c3Oc4c2cccc4C(=O)O)C(=O)O)C(F)(F)F
